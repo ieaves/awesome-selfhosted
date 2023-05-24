@@ -141,7 +141,7 @@ _Related: [Database Management](#database-management), [Personal Dashboards](#pe
 - [Socioboard](https://github.com/socioboard/Socioboard-4.0) `⚠` - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. `GPL-3.0` `Nodejs`
 - [Superset](http://superset.apache.org/) - Modern data exploration and visualization platform. ([Source Code](https://github.com/apache/superset)) `Apache-2.0` `Python`
 - [Umami](https://umami.is/) - Simple, fast, privacy-focused alternative to Google Analytics. ([Demo](https://app.umami.is/share/8rmHaheU/umami.is), [Source Code](https://github.com/umami-software/umami)) `MIT` `Nodejs`
-
+- [Grai](https://grai.io) - Open-source data observability and lineage. Run data tests for your prod db against your data warehouse in a PR.  ([Source Code](https://github.com/grai-io/grai-core)) `Elastic-2.0` `Python`
 
 ### Archiving and Digital Preservation (DP)
 
@@ -2144,7 +2144,7 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [Wiki Engines - WikiIndex]
 - `WTFPL` - [Do What the Fuck You Want to Public License](https://spdx.org/licenses/WTFPL.html)
 - `Zlib` - [Zlib/libpng License](https://spdx.org/licenses/Zlib.html)
 - `ZPL-2.0` - [Zope Public License 2.0](https://spdx.org/licenses/ZPL-2.0.html)
-
+- 'Elastic-2.0` - [Elastic Licsense 2.0](https://www.elastic.co/licensing/elastic-license)
 
 --------------------
 
